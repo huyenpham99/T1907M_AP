@@ -1,0 +1,5 @@
+C:\Users\Huyen\RiderProjects\GeometryExample\GeometryExample\bin\Debug\GeometryExample.exe
+C:\Users\Huyen\RiderProjects\GeometryExample\GeometryExample\bin\Debug\GeometryExample.pdb
+C:\Users\Huyen\RiderProjects\GeometryExample\GeometryExample\obj\Debug\GeometryExample.csprojAssemblyReference.cache
+C:\Users\Huyen\RiderProjects\GeometryExample\GeometryExample\obj\Debug\GeometryExample.exe
+C:\Users\Huyen\RiderProjects\GeometryExample\GeometryExample\obj\Debug\GeometryExample.pdb
